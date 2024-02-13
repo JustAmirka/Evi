@@ -4,7 +4,7 @@ html {
 
 body {
   margin: 0;
-  font-family: "Snell Roundhand", cursive;
+  font-family: "Arial", sans-serif;
   background-color: #eeeeee;
 }
 
@@ -110,7 +110,7 @@ body {
 }
 
 .idea-6 span {
-  font-size: 10rem;
+  font-size: 6rem;
 }
 
 .six {
